@@ -1,0 +1,4 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/libtrajectory_optimization.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/trajectory_optimization.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/trajectory_optimization/cmake/trajectory_optimizationConfig-version.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/trajectory_optimization/cmake/trajectory_optimizationConfig.cmake

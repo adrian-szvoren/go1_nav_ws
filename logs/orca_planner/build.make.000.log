@@ -1,0 +1,13 @@
+[35m[1mScanning dependencies of target RVO[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/RVO.dir/include/RVO/KdTree.cc.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/RVO.dir/include/RVO/Agent.cc.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/RVO.dir/include/RVO/Line.cc.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/RVO.dir/include/RVO/Obstacle.cc.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/RVO.dir/include/RVO/RVOSimulator.cc.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/RVO.dir/include/RVO/Vector2.cc.o[0m
+[ 77%] [32m[1mLinking CXX shared library /home/adrian/go1_nav_ws/devel/.private/orca_planner/lib/libRVO.so[0m
+[ 77%] Built target RVO
+[35m[1mScanning dependencies of target orca_planner[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/orca_planner.dir/src/orca_planner.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/adrian/go1_nav_ws/devel/.private/orca_planner/lib/liborca_planner.so[0m
+[100%] Built target orca_planner

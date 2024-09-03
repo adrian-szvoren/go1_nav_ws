@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/go1_navigation/share/go1_navigation/cmake/go1_navigationConfig.cmake

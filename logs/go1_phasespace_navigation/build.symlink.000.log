@@ -1,0 +1,3 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/go1_phasespace_navigation.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/go1_phasespace_navigation/cmake/go1_phasespace_navigationConfig-version.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/go1_phasespace_navigation/cmake/go1_phasespace_navigationConfig.cmake

@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/lazy_planner/lib/pkgconfig/lazy_planner.pc

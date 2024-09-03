@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/slam_toolbox_msgs/share/roseus/ros/slam_toolbox_msgs/srv/Clear.l

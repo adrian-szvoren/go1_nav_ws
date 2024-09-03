@@ -1,0 +1,4 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/libglobal_planner.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/global_planner.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/global_planner/cmake/global_plannerConfig-version.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/global_planner/cmake/global_plannerConfig.cmake

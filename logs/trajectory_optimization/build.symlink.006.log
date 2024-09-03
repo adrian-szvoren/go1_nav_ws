@@ -1,0 +1,4 @@
+Linked: (/home/adrian/go1_nav_ws/devel/.private/trajectory_optimization/lib/libtrajectory_optimization.so, /home/adrian/go1_nav_ws/devel/lib/libtrajectory_optimization.so)
+Linked: (/home/adrian/go1_nav_ws/devel/.private/trajectory_optimization/lib/pkgconfig/trajectory_optimization.pc, /home/adrian/go1_nav_ws/devel/lib/pkgconfig/trajectory_optimization.pc)
+Linked: (/home/adrian/go1_nav_ws/devel/.private/trajectory_optimization/share/trajectory_optimization/cmake/trajectory_optimizationConfig-version.cmake, /home/adrian/go1_nav_ws/devel/share/trajectory_optimization/cmake/trajectory_optimizationConfig-version.cmake)
+Linked: (/home/adrian/go1_nav_ws/devel/.private/trajectory_optimization/share/trajectory_optimization/cmake/trajectory_optimizationConfig.cmake, /home/adrian/go1_nav_ws/devel/share/trajectory_optimization/cmake/trajectory_optimizationConfig.cmake)

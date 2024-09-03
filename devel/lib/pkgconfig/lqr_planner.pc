@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/lqr_planner/lib/pkgconfig/lqr_planner.pc

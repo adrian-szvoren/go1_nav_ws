@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target pid_planner[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/pid_planner.dir/src/pid_planner.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/adrian/go1_nav_ws/devel/.private/pid_planner/lib/libpid_planner.so[0m
+[100%] Built target pid_planner

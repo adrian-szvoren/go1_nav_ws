@@ -1,0 +1,5 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/liborca_planner.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/libRVO.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/orca_planner.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/orca_planner/cmake/orca_plannerConfig.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/orca_planner/cmake/orca_plannerConfig-version.cmake

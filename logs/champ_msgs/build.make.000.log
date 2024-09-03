@@ -1,0 +1,97 @@
+[35m[1mScanning dependencies of target _champ_msgs_generate_messages_check_deps_Pose[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target _champ_msgs_generate_messages_check_deps_Contacts[0m
+[35m[1mScanning dependencies of target _champ_msgs_generate_messages_check_deps_PointArray[0m
+[35m[1mScanning dependencies of target _champ_msgs_generate_messages_check_deps_Point[0m
+[35m[1mScanning dependencies of target _champ_msgs_generate_messages_check_deps_Velocities[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target _champ_msgs_generate_messages_check_deps_Imu[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _champ_msgs_generate_messages_check_deps_PID[0m
+[35m[1mScanning dependencies of target _champ_msgs_generate_messages_check_deps_Joints[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _champ_msgs_generate_messages_check_deps_ContactsStamped[0m
+[  0%] Built target _champ_msgs_generate_messages_check_deps_Pose
+[  0%] Built target _champ_msgs_generate_messages_check_deps_Velocities
+[  0%] Built target _champ_msgs_generate_messages_check_deps_Contacts
+[  0%] Built target _champ_msgs_generate_messages_check_deps_Point
+[  0%] Built target _champ_msgs_generate_messages_check_deps_Imu
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target _champ_msgs_generate_messages_check_deps_PointArray
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target _champ_msgs_generate_messages_check_deps_PID
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target _champ_msgs_generate_messages_check_deps_ContactsStamped
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target _champ_msgs_generate_messages_check_deps_Joints
+[35m[1mScanning dependencies of target champ_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target champ_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target champ_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target champ_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target champ_msgs_generate_messages_py[0m
+[  4%] [34m[1mGenerating Lisp code from champ_msgs/Velocities.msg[0m
+[  2%] [34m[1mGenerating C++ code from champ_msgs/Velocities.msg[0m
+[  6%] [34m[1mGenerating C++ code from champ_msgs/Imu.msg[0m
+[  8%] [34m[1mGenerating C++ code from champ_msgs/PID.msg[0m
+[ 12%] [34m[1mGenerating C++ code from champ_msgs/Point.msg[0m
+[ 12%] [34m[1mGenerating Lisp code from champ_msgs/Imu.msg[0m
+[ 14%] [34m[1mGenerating Javascript code from champ_msgs/Velocities.msg[0m
+[ 19%] [34m[1mGenerating Python from MSG champ_msgs/Velocities[0m
+[ 19%] [34m[1mGenerating EusLisp code from champ_msgs/Velocities.msg[0m
+[ 21%] [34m[1mGenerating Lisp code from champ_msgs/PID.msg[0m
+[ 23%] [34m[1mGenerating Javascript code from champ_msgs/PID.msg[0m
+[ 25%] [34m[1mGenerating Lisp code from champ_msgs/Point.msg[0m
+[ 27%] [34m[1mGenerating Javascript code from champ_msgs/Imu.msg[0m
+[ 29%] [34m[1mGenerating Javascript code from champ_msgs/Point.msg[0m
+[ 31%] [34m[1mGenerating C++ code from champ_msgs/PointArray.msg[0m
+[ 34%] [34m[1mGenerating Lisp code from champ_msgs/PointArray.msg[0m
+[ 36%] [34m[1mGenerating C++ code from champ_msgs/Contacts.msg[0m
+[ 38%] [34m[1mGenerating C++ code from champ_msgs/Joints.msg[0m
+[ 40%] [34m[1mGenerating EusLisp code from champ_msgs/PID.msg[0m
+[ 42%] [34m[1mGenerating C++ code from champ_msgs/ContactsStamped.msg[0m
+[ 46%] [34m[1mGenerating Lisp code from champ_msgs/Joints.msg[0m
+[ 46%] [34m[1mGenerating Lisp code from champ_msgs/Contacts.msg[0m
+[ 48%] [34m[1mGenerating Javascript code from champ_msgs/PointArray.msg[0m
+[ 51%] [34m[1mGenerating Lisp code from champ_msgs/ContactsStamped.msg[0m
+[ 53%] [34m[1mGenerating Lisp code from champ_msgs/Pose.msg[0m
+[ 55%] [34m[1mGenerating EusLisp code from champ_msgs/Imu.msg[0m
+[ 57%] [34m[1mGenerating Javascript code from champ_msgs/Joints.msg[0m
+[ 59%] [34m[1mGenerating EusLisp code from champ_msgs/Point.msg[0m
+[ 61%] [34m[1mGenerating Javascript code from champ_msgs/Contacts.msg[0m
+[ 63%] [34m[1mGenerating C++ code from champ_msgs/Pose.msg[0m
+[ 65%] [34m[1mGenerating Python from MSG champ_msgs/PID[0m
+[ 68%] [34m[1mGenerating Javascript code from champ_msgs/Pose.msg[0m
+[ 70%] [34m[1mGenerating Javascript code from champ_msgs/ContactsStamped.msg[0m
+[ 70%] Built target champ_msgs_generate_messages_lisp
+[ 72%] [34m[1mGenerating Python from MSG champ_msgs/Imu[0m
+[ 74%] [34m[1mGenerating Python from MSG champ_msgs/Point[0m
+[ 76%] [34m[1mGenerating EusLisp code from champ_msgs/PointArray.msg[0m
+[ 78%] [34m[1mGenerating EusLisp code from champ_msgs/Joints.msg[0m
+[ 80%] [34m[1mGenerating EusLisp code from champ_msgs/Contacts.msg[0m
+[ 82%] [34m[1mGenerating EusLisp code from champ_msgs/ContactsStamped.msg[0m
+[ 85%] [34m[1mGenerating Python from MSG champ_msgs/PointArray[0m
+[ 85%] Built target champ_msgs_generate_messages_nodejs
+[ 87%] [34m[1mGenerating Python from MSG champ_msgs/Joints[0m
+[ 87%] Built target champ_msgs_generate_messages_cpp
+[ 89%] [34m[1mGenerating EusLisp code from champ_msgs/Pose.msg[0m
+[ 91%] [34m[1mGenerating Python from MSG champ_msgs/Contacts[0m
+[ 93%] [34m[1mGenerating EusLisp manifest code for champ_msgs[0m
+[ 95%] [34m[1mGenerating Python from MSG champ_msgs/ContactsStamped[0m
+[ 97%] [34m[1mGenerating Python from MSG champ_msgs/Pose[0m
+[100%] [34m[1mGenerating Python msg __init__.py for champ_msgs[0m
+[100%] Built target champ_msgs_generate_messages_py
+[100%] Built target champ_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target champ_msgs_generate_messages[0m
+[100%] Built target champ_msgs_generate_messages

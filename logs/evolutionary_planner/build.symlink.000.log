@@ -1,0 +1,4 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/libevolutionary_planner.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/evolutionary_planner.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/evolutionary_planner/cmake/evolutionary_plannerConfig-version.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/evolutionary_planner/cmake/evolutionary_plannerConfig.cmake

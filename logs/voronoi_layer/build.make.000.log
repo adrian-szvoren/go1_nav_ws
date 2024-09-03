@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target voronoi_layer[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/voronoi_layer.dir/src/dynamicvoronoi.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/voronoi_layer.dir/src/voronoi_layer.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/adrian/go1_nav_ws/devel/.private/voronoi_layer/lib/libvoronoi_layer.so[0m
+[100%] Built target voronoi_layer

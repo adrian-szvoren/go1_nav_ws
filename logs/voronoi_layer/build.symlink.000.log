@@ -1,0 +1,4 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/libvoronoi_layer.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/voronoi_layer.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/voronoi_layer/cmake/voronoi_layerConfig.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/voronoi_layer/cmake/voronoi_layerConfig-version.cmake

@@ -1,0 +1,8 @@
+prefix=/home/adrian/go1_nav_ws/devel/.private/go1_config
+
+Name: go1_config
+Description: Description of go1_config
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

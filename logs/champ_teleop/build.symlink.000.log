@@ -1,0 +1,5 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/champ_teleop/cmake.lock
+Symlinking /home/adrian/go1_nav_ws/devel/lib/champ_teleop/champ_teleop.py
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/champ_teleop.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/champ_teleop/cmake/champ_teleopConfig-version.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/champ_teleop/cmake/champ_teleopConfig.cmake

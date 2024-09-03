@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target local_planner[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/local_planner.dir/src/local_planner.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/adrian/go1_nav_ws/devel/.private/local_planner/lib/liblocal_planner.so[0m
+[100%] Built target local_planner

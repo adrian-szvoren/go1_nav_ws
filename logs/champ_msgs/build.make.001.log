@@ -1,0 +1,25 @@
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target _champ_msgs_generate_messages_check_deps_Contacts
+[  0%] Built target _champ_msgs_generate_messages_check_deps_Velocities
+[  0%] Built target _champ_msgs_generate_messages_check_deps_Imu
+[  0%] Built target _champ_msgs_generate_messages_check_deps_PointArray
+[  0%] Built target _champ_msgs_generate_messages_check_deps_Point
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _champ_msgs_generate_messages_check_deps_Pose
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _champ_msgs_generate_messages_check_deps_ContactsStamped
+[  0%] Built target _champ_msgs_generate_messages_check_deps_PID
+[  0%] Built target _champ_msgs_generate_messages_check_deps_Joints
+[ 87%] Built target champ_msgs_generate_messages_lisp
+[ 87%] Built target champ_msgs_generate_messages_nodejs
+[ 87%] Built target champ_msgs_generate_messages_py
+[ 91%] Built target champ_msgs_generate_messages_eus
+[100%] Built target champ_msgs_generate_messages_cpp
+[100%] Built target champ_msgs_generate_messages

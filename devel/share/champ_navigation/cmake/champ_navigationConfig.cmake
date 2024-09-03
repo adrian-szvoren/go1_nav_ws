@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/champ_navigation/share/champ_navigation/cmake/champ_navigationConfig.cmake

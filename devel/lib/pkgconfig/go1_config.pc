@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/go1_config/lib/pkgconfig/go1_config.pc

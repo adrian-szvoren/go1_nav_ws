@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/champ_gazebo/lib/pkgconfig/champ_gazebo.pc

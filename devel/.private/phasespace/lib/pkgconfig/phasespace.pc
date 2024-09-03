@@ -1,0 +1,8 @@
+prefix=/home/adrian/go1_nav_ws/devel/.private/phasespace
+
+Name: phasespace
+Description: Description of phasespace
+Version: 0.0.1
+Cflags: -I/home/adrian/go1_nav_ws/devel/.private/phasespace/include -I/home/adrian/go1_nav_ws/src/phasespace_ros_node/include
+Libs: -L${prefix}/lib -lphasespace
+Requires: std_msgs roscpp message_runtime roslib

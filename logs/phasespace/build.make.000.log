@@ -1,0 +1,96 @@
+[35m[1mScanning dependencies of target _phasespace_generate_messages_check_deps_Markers[0m
+[35m[1mScanning dependencies of target _phasespace_generate_messages_check_deps_Cameras[0m
+[35m[1mScanning dependencies of target _phasespace_generate_messages_check_deps_Rigids[0m
+[35m[1mScanning dependencies of target _phasespace_generate_messages_check_deps_Rigid[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target _phasespace_generate_messages_check_deps_Camera[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target phasespace_node[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _phasespace_generate_messages_check_deps_Marker[0m
+[  2%] [32mBuilding CXX object CMakeFiles/phasespace_node.dir/src/psnode.cpp.o[0m
+[  2%] Built target _phasespace_generate_messages_check_deps_Camera
+[  2%] Built target _phasespace_generate_messages_check_deps_Rigids
+[  2%] Built target _phasespace_generate_messages_check_deps_Cameras
+[  2%] Built target _phasespace_generate_messages_check_deps_Rigid
+[  2%] Built target _phasespace_generate_messages_check_deps_Marker
+[  2%] Built target _phasespace_generate_messages_check_deps_Markers
+[35m[1mScanning dependencies of target phasespace_generate_messages_eus[0m
+[35m[1mScanning dependencies of target phasespace_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target phasespace_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target phasespace_generate_messages_py[0m
+[35m[1mScanning dependencies of target phasespace_generate_messages_cpp[0m
+[ 19%] [34m[1mGenerating Lisp code from phasespace/Camera.msg[0m
+[ 19%] [34m[1mGenerating Javascript code from phasespace/Camera.msg[0m
+[ 19%] [34m[1mGenerating EusLisp code from phasespace/Cameras.msg[0m
+[ 19%] [34m[1mGenerating EusLisp code from phasespace/Markers.msg[0m
+[ 19%] [34m[1mGenerating Javascript code from phasespace/Cameras.msg[0m
+[ 19%] [34m[1mGenerating EusLisp code from phasespace/Camera.msg[0m
+[ 22%] [34m[1mGenerating Python from MSG phasespace/Camera[0m
+[ 25%] [34m[1mGenerating EusLisp code from phasespace/Rigid.msg[0m
+[ 27%] [34m[1mGenerating EusLisp code from phasespace/Marker.msg[0m
+[ 30%] [34m[1mGenerating C++ code from phasespace/Camera.msg[0m
+[ 33%] [34m[1mGenerating EusLisp code from phasespace/Rigids.msg[0m
+[ 36%] [34m[1mGenerating Python from MSG phasespace/Cameras[0m
+[ 38%] [34m[1mGenerating Javascript code from phasespace/Marker.msg[0m
+[ 44%] [34m[1mGenerating EusLisp manifest code for phasespace[0m
+[ 44%] [34m[1mGenerating Python from MSG phasespace/Marker[0m
+[ 50%] [34m[1mGenerating Python from MSG phasespace/Markers[0m
+[ 50%] [34m[1mGenerating C++ code from phasespace/Cameras.msg[0m
+[ 52%] [34m[1mGenerating Lisp code from phasespace/Cameras.msg[0m
+[ 55%] [34m[1mGenerating C++ code from phasespace/Marker.msg[0m
+[ 61%] [34m[1mGenerating Lisp code from phasespace/Marker.msg[0m
+[ 61%] [34m[1mGenerating Javascript code from phasespace/Markers.msg[0m
+[ 63%] [34m[1mGenerating Lisp code from phasespace/Markers.msg[0m
+[ 66%] [34m[1mGenerating Python from MSG phasespace/Rigid[0m
+[ 69%] [34m[1mGenerating Javascript code from phasespace/Rigid.msg[0m
+[ 72%] [34m[1mGenerating Lisp code from phasespace/Rigids.msg[0m
+[ 75%] [34m[1mGenerating C++ code from phasespace/Markers.msg[0m
+[ 77%] [34m[1mGenerating Lisp code from phasespace/Rigid.msg[0m
+[ 80%] [34m[1mGenerating Python from MSG phasespace/Rigids[0m
+[ 83%] [34m[1mGenerating Javascript code from phasespace/Rigids.msg[0m
+[ 86%] [34m[1mGenerating C++ code from phasespace/Rigid.msg[0m
+[ 88%] [34m[1mGenerating C++ code from phasespace/Rigids.msg[0m
+[ 88%] Built target phasespace_generate_messages_lisp
+[ 88%] Built target phasespace_generate_messages_nodejs
+[ 88%] Built target phasespace_generate_messages_cpp
+[35m[1mScanning dependencies of target phasespace_gencpp[0m
+[ 88%] Built target phasespace_gencpp
+[35m[1mScanning dependencies of target phasespace[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/phasespace.dir/src/psnode.cpp.o[0m
+[ 94%] [34m[1mGenerating Python msg __init__.py for phasespace[0m
+[ 94%] Built target phasespace_generate_messages_py
+[ 94%] Built target phasespace_generate_messages_eus
+[35m[1mScanning dependencies of target phasespace_generate_messages[0m
+[ 94%] Built target phasespace_generate_messages
+In file included from [01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/src/psnode.cpp:13[m[K:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:[m[K In function ‘[01m[Kint seek_next(std::string*, int, char)[m[K’:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:514:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  514 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+In file included from [01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/src/psnode.cpp:13[m[K:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:[m[K In function ‘[01m[Kint seek_next(std::string*, int, char)[m[K’:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:514:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  514 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+In file included from [01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/src/psnode.cpp:13[m[K:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:[m[K In function ‘[01m[Kstd::string to_string(RSJresourceType)[m[K’:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:65:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+   65 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+In file included from [01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/src/psnode.cpp:13[m[K:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:[m[K In function ‘[01m[Kstd::string to_string(RSJresourceType)[m[K’:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:65:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+   65 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[ 97%] [32m[1mLinking CXX executable /home/adrian/go1_nav_ws/devel/.private/phasespace/lib/phasespace/phasespace_node[0m
+[ 97%] Built target phasespace_node
+[100%] [32m[1mLinking CXX shared library /home/adrian/go1_nav_ws/devel/.private/phasespace/lib/libphasespace.so[0m
+[100%] Built target phasespace

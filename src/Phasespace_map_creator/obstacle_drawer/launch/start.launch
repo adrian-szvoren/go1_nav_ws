@@ -1,0 +1,10 @@
+<launch>
+  <node pkg="obstacle_drawer" name="obstacle_drawer" type="sub_logger.py" output="screen">
+  </node>
+
+  <node pkg="phasespace" name="phasespace_node" type="phasespace_node" args="192.168.1.17 obs_tracker.json 1">
+  </node>
+
+  <!-- rviz -->
+  <node pkg="rviz" name="rviz" type="rviz" args="-d $(find obstacle_drawer)/rviz/map_vis.rviz" />
+</launch>

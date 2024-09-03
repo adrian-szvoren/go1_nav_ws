@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/champ_description/share/champ_description/cmake/champ_descriptionConfig.cmake

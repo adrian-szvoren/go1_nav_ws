@@ -1,0 +1,16 @@
+<launch>
+  <arg name="map_file" default="$(find obstacle_drawer)/maps/map_lab_L.yaml"/>
+
+  <!-- Run the map server -->
+  <node name="map_server" pkg="map_server" type="map_server" args="$(arg map_file)" />
+
+
+  <node pkg="obstacle_drawer" name="obstacle_drawer" type="test_localisation.py" output="screen">
+  </node>
+
+  <node pkg="phasespace" name="phasespace_node" type="phasespace_node" args="192.168.1.41 robot.json 1">
+  </node>
+
+  <!-- rviz -->
+  <node pkg="rviz" name="rviz" type="rviz" args="-d $(find obstacle_drawer)/rviz/localisation.rviz" />
+</launch>

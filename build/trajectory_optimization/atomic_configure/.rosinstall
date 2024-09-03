@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/adrian/go1_nav_ws/devel/.private/trajectory_optimization/setup.sh

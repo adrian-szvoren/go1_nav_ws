@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/champ_base/share/champ_base/cmake/champ_baseConfig-version.cmake

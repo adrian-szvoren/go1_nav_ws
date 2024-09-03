@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+  <xacro:macro name="rsHelios" params="Gazebo:=false">
+
+    <xacro:property name="M_PI" value="3.1415926535897931" />
+<!-- 
+    <joint name="mounting_rail_r_joint" type="fixed">
+        <xacro:insert_block name="origin"/>
+        <parent link="trunk"/>
+        <child link="LiDAR_mounting_plate"/>
+    </joint>   -->
+
+      <link
+      name="mounting_rail_r">
+      <inertial>
+        <origin
+          xyz="-0.00024356 -8.378E-07 0.0034369"
+          rpy="0 0 0" />
+        <mass
+          value="0.11185" />
+        <inertia
+          ixx="2.411E-07"
+          ixy="1.0042E-09"
+          ixz="-5.1152E-09"
+          iyy="4.646E-05"
+          iyz="3.2809E-11"
+          izz="4.6554E-05" />
+      </inertial>
+      <visual>
+        <origin
+          xyz="0 0 0"
+          rpy="0 0 0" />
+        <geometry>
+          <mesh
+            filename="package://go1_description/meshes/RSHelios/mounting_rail.STL" />
+        </geometry>
+        <material
+          name="">
+          <color
+            rgba="0.89804 0.91765 0.92941 1" />
+        </material>
+      </visual>
+      <collision>
+        <origin
+          xyz="0 0 0"
+          rpy="0 0 0" />
+        <geometry>
+          <mesh
+            filename="package://go1_description/meshes/RSHelios/mounting_rail.STL" />
+        </geometry>
+      </collision>
+    </link>
+    <joint
+      name="mounting_rail_r_joint"
+      type="fixed">
+      <origin
+        xyz="0 -0.052501 0.057"
+        rpy="0 0 0" />
+      <parent
+        link="trunk" />
+      <child
+        link="mounting_rail_r" />
+      <axis
+        xyz="0 0 0" />
+    </joint>
+    <link
+      name="mounting_rail_l">
+      <inertial>
+        <origin
+          xyz="-0.00024356 -8.378E-07 0.0034369"
+          rpy="0 0 0" />
+        <mass
+          value="0.11185" />
+        <inertia
+          ixx="2.411E-07"
+          ixy="1.0042E-09"
+          ixz="-5.1152E-09"
+          iyy="4.646E-05"
+          iyz="3.2809E-11"
+          izz="4.6554E-05" />
+      </inertial>
+      <visual>
+        <origin
+          xyz="0 0 0"
+          rpy="0 0 0" />
+        <geometry>
+          <mesh
+            filename="package://go1_description/meshes/RSHelios/mounting_rail.STL" />
+        </geometry>
+        <material
+          name="">
+          <color
+            rgba="0.89804 0.91765 0.92941 1" />
+        </material>
+      </visual>
+      <collision>
+        <origin
+          xyz="0 0 0"
+          rpy="0 0 0" />
+        <geometry>
+          <mesh
+            filename="package://go1_description/meshes/RSHelios/mounting_rail.STL" />
+        </geometry>
+      </collision>
+    </link>
+    <joint
+      name="mounting_rail_l_joint"
+      type="fixed">
+      <origin
+        xyz="0 0.052501 0.057"
+        rpy="0 0 0" />
+      <parent
+        link="trunk" />
+      <child
+        link="mounting_rail_l" />
+      <axis
+        xyz="0 0 0" />
+    </joint>
+
+
+    <link
+      name="LiDAR_bracket_link">
+      <inertial>
+        <origin
+          xyz="-0.0114393329425985 2.68860512346877E-07 0.00902495540022773"
+          rpy="0 0 0" />
+        <mass
+          value="0.14293059838263" />
+        <inertia
+          ixx="0.000278931032172305"
+          ixy="-1.88653995660712E-09"
+          ixz="-4.07161544984253E-05"
+          iyy="0.000241405470279631"
+          iyz="1.65604648040172E-09"
+          izz="0.000397056295028226" />
+      </inertial>
+      <visual>
+        <origin
+          xyz="0 0 0"
+          rpy="0 0 0" />
+        <geometry>
+          <mesh
+            filename="package://go1_description/meshes/RSHelios/LiDAR_bracket_link.STL" />
+        </geometry>
+        <material
+          name="">
+          <color
+            rgba="0.75294 0.75294 0.75294 1" />
+        </material>
+      </visual>
+      <collision>
+        <origin
+          xyz="0 0 0"
+          rpy="0 0 0" />
+        <geometry>
+          <mesh
+            filename="package://go1_description/meshes/RSHelios/LiDAR_bracket_link.STL" />
+        </geometry>
+      </collision>
+    </link>
+    <joint
+      name="LiDAR_bracket_joint"
+      type="fixed">
+      <origin
+        xyz="0.052066 0 0.0965"
+        rpy="0 0 0" />
+      <parent
+        link="trunk" />
+      <child
+        link="LiDAR_bracket_link" />
+      <axis
+        xyz="1 0 0" />
+    </joint>
+    <link
+      name="rslidar">
+      <inertial>
+        <origin
+          xyz="-0.00048652 -8.9503E-05 0.040893"
+          rpy="0 0 0" />
+        <mass
+          value="0.99303" />
+        <inertia
+          ixx="0.00011699"
+          ixy="1.116E-07"
+          ixz="3.3419E-07"
+          iyy="0.00011578"
+          iyz="-2.6637E-08"
+          izz="0.00019531" />
+      </inertial>
+      <visual>
+        <origin
+          xyz="0 0 0"
+          rpy="0 0 0" />
+        <geometry>
+          <mesh
+            filename="package://go1_description/meshes/RSHelios/RS_Helios_LiDAR.STL" />
+        </geometry>
+        <material
+          name="">
+          <color
+            rgba="0.75294 0.75294 0.75294 1" />
+        </material>
+      </visual>
+      <collision>
+        <origin
+          xyz="0 0 0"
+          rpy="0 0 0" />
+        <geometry>
+          <mesh
+            filename="package://go1_description/meshes/RSHelios/RS_Helios_LiDAR.STL" />
+        </geometry>
+      </collision>
+    </link>
+    <joint
+      name="RS_Helios_LiDAR_joint"
+      type="fixed">
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <parent
+        link="LiDAR_bracket_link" />
+      <child
+        link="rslidar" />
+      <axis
+        xyz="1 0 0" />
+    </joint>
+    <link name="laser_link">
+    </link>
+    <joint
+      name="laser_joint"
+      type="fixed">
+      <origin
+        xyz="0 0 0.054"
+        rpy="0 0 0" />
+      <parent
+        link="rslidar" />
+      <child
+        link="laser_link" />
+      <axis
+        xyz="1 0 0" />
+    </joint>
+        
+    // If using in Gazebo
+    <xacro:if value="${Gazebo}">
+        <xacro:include filename="$(find go1_description)/xacro/Accessories/rsHelios.gazebo.xacro"/>
+        <xacro:rsHelios_gazebo/>
+    </xacro:if>
+
+
+
+
+
+  </xacro:macro>
+</robot>

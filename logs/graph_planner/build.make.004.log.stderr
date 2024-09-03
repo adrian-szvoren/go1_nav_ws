@@ -1,0 +1,7 @@
+[01m[K/home/adrian/go1_nav_ws/src/core/global_planner/graph_planner/src/graph_planner.cpp:[m[K In function ‘[01m[Kgeometry_msgs::Point graph_planner::findLongestPathWithObstacle(ros::NodeHandle&, costmap_2d::Costmap2D*, global_planner::GlobalPlanner*, const Node&, const Node&, const std::vector<geometry_msgs::PoseStamped_<std::allocator<void> > >&, double, std::string)[m[K’:
+[01m[K/home/adrian/go1_nav_ws/src/core/global_planner/graph_planner/src/graph_planner.cpp:227:2:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Kdouble[m[K’
+  227 |  [01;31m[Kdouble[m[K max_path_length = -1.0;
+      |  [01;31m[K^~~~~~[m[K
+make[2]: *** [CMakeFiles/graph_planner.dir/build.make:63: CMakeFiles/graph_planner.dir/src/graph_planner.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:568: CMakeFiles/graph_planner.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

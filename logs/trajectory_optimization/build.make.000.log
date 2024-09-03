@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target trajectory_optimization[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/trajectory_optimization.dir/src/optimizer.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/trajectory_optimization.dir/src/conjugate_optimizer.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/adrian/go1_nav_ws/devel/.private/trajectory_optimization/lib/libtrajectory_optimization.so[0m
+[100%] Built target trajectory_optimization

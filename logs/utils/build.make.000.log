@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target utils[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/utils.dir/src/math_helper.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/utils.dir/src/nodes.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/adrian/go1_nav_ws/devel/.private/utils/lib/libutils.so[0m
+[100%] Built target utils

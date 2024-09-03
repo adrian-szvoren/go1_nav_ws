@@ -1,0 +1,4 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/libapf_planner.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/apf_planner.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/apf_planner/cmake/apf_plannerConfig-version.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/apf_planner/cmake/apf_plannerConfig.cmake

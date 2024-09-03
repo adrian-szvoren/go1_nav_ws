@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/dwa_planner/lib/pkgconfig/dwa_planner.pc

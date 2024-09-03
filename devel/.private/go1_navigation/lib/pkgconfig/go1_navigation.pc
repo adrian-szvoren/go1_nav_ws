@@ -1,0 +1,8 @@
+prefix=/home/adrian/go1_nav_ws/devel/.private/go1_navigation
+
+Name: go1_navigation
+Description: Description of go1_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

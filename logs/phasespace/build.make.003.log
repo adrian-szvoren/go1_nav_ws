@@ -1,0 +1,20 @@
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  5%] Built target phasespace_node
+[  5%] Built target _phasespace_generate_messages_check_deps_Rigids
+[  5%] Built target _phasespace_generate_messages_check_deps_Cameras
+[  5%] Built target _phasespace_generate_messages_check_deps_Camera
+[  5%] Built target _phasespace_generate_messages_check_deps_Rigid
+[  5%] Built target _phasespace_generate_messages_check_deps_Marker
+[  5%] Built target _phasespace_generate_messages_check_deps_Markers
+[ 75%] Built target phasespace_generate_messages_lisp
+[ 75%] Built target phasespace_generate_messages_nodejs
+[ 75%] Built target phasespace_generate_messages_py
+[ 77%] Built target phasespace_generate_messages_eus
+[ 94%] Built target phasespace_generate_messages_cpp
+[ 94%] Built target phasespace_gencpp
+[ 94%] Built target phasespace_generate_messages
+[100%] Built target phasespace

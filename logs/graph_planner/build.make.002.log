@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target graph_planner[0m
+[  8%] [32mBuilding CXX object CMakeFiles/graph_planner.dir/src/graph_planner.cpp.o[0m
+[ 16%] [32m[1mLinking CXX shared library /home/adrian/go1_nav_ws/devel/.private/graph_planner/lib/libgraph_planner.so[0m
+[100%] Built target graph_planner

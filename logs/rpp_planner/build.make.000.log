@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target rpp_planner[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rpp_planner.dir/src/rpp_planner.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/adrian/go1_nav_ws/devel/.private/rpp_planner/lib/librpp_planner.so[0m
+[100%] Built target rpp_planner

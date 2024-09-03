@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/dwa_planner/lib/python3/dist-packages/dwa_planner/cfg/DWAPlannerConfig.py

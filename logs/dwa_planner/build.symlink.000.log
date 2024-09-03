@@ -1,0 +1,11 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/libdwa_planner.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/python3/dist-packages/dwa_planner/__init__.py
+Symlinking /home/adrian/go1_nav_ws/devel/lib/python3/dist-packages/dwa_planner/cfg/DWAPlannerConfig.py
+Symlinking /home/adrian/go1_nav_ws/devel/lib/python3/dist-packages/dwa_planner/cfg/__init__.py
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/dwa_planner.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/dwa_planner/cmake/dwa_plannerConfig-version.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/dwa_planner/cmake/dwa_plannerConfig.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/dwa_planner/docs/DWAPlannerConfig.dox
+Symlinking /home/adrian/go1_nav_ws/devel/share/dwa_planner/docs/DWAPlannerConfig-usage.dox
+Symlinking /home/adrian/go1_nav_ws/devel/share/dwa_planner/docs/DWAPlannerConfig.wikidoc
+Symlinking /home/adrian/go1_nav_ws/devel/include/dwa_planner/DWAPlannerConfig.h

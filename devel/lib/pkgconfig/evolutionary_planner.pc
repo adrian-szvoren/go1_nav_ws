@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/evolutionary_planner/lib/pkgconfig/evolutionary_planner.pc

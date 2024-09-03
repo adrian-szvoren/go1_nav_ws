@@ -1,0 +1,63 @@
+<launch>
+    <arg name="frame_prefix" default=""/>
+    <arg name="robot_name" default=""/>
+
+    ### 2D global and local planners
+    <node pkg="move_base" type="move_base" respawn="false" name="move_base" output="screen">
+        <rosparam file="$(find go1_phasespace_navigation)/config/move_base_diffusion_2d/costmap_common_params.yaml" command="load" ns="global_costmap" />
+        <rosparam file="$(find go1_phasespace_navigation)/config/move_base_diffusion_2d/costmap_common_params.yaml" command="load" ns="local_costmap" />
+        <rosparam file="$(find go1_phasespace_navigation)/config/move_base_diffusion_2d/local_costmap_params.yaml" command="load" />
+        <rosparam file="$(find go1_phasespace_navigation)/config/move_base_diffusion_2d/global_costmap_params.yaml" command="load" />
+        <rosparam file="$(find go1_phasespace_navigation)/config/move_base_diffusion_2d/base_local_planner_holonomic_params.yaml" command="load" />
+        <rosparam file="$(find go1_phasespace_navigation)/config/move_base_diffusion_2d/move_base_params.yaml" command="load" />
+
+        <!-- explicitly define frame ids for movebase -->
+        <param name="global_costmap/global_frame"                   value="$(arg frame_prefix)map"/>
+        <param name="global_costmap/robot_base_frame"               value="$(arg frame_prefix)base"/>
+        <param name="global_costmap/2d_obstacles_layer/scan/topic"  value="$(arg robot_name)scan"/>
+        <param name="global_costmap/3d_obstacles_layer/depth/topic" value="$(arg robot_name)camera/depth/points"/>
+        <param name="local_costmap/global_frame"                    value="$(arg frame_prefix)map"/>
+        <param name="local_costmap/robot_base_frame"                value="$(arg frame_prefix)base"/>
+        <param name="local_costmap/2d_obstacles_layer/scan/topic"   value="$(arg robot_name)scan"/>
+        <param name="local_costmap/3d_obstacles_layer/depth/topic"  value="$(arg robot_name)camera/depth/points"/>
+    </node>
+
+    ### Custom Planner server:
+    <node pkg="diffusion_2d_planner" name="diffusion_2d_planner_server" 
+        type="diffusion_2d_planner_server.py" output="screen">
+    </node>
+
+    ### robot description
+    <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find go1_description)/xacro/robot.xacro'
+        with_3D_lidar:=False"/>
+
+    <node pkg="robot_state_publisher" type="robot_state_publisher" name="robot_state_publisher">
+        <param name="publish_frequency" type="double" value="30.0"/>
+    </node>
+
+        
+    ### rviz
+    <node pkg="rviz" type="rviz" name="rviz" respawn="false" output="screen"
+        args="-d $(find go1_phasespace_navigation)/rviz/2D_nav.rviz"/>
+    
+    ### low level inteface
+    <node pkg="unitree_legged_real" type="robot_state" name="robot_state_sub" output="screen"/>
+    
+
+    ### localisation:
+
+    <arg name="map_file" default="$(find go1_phasespace_navigation)/maps/lab_map_3.yaml"/>
+
+    <!-- Run the map server -->
+    <node name="map_server" pkg="map_server" type="map_server" args="$(arg map_file)" />
+
+
+    <node pkg="obstacle_drawer" name="obstacle_drawer" type="test_localisation.py" output="screen">
+    </node>
+
+    <node pkg="phasespace" name="phasespace_node" type="phasespace_node" args="192.168.1.17 robot_go1.json 1">
+    </node>
+
+
+    <node pkg="tf" type="static_transform_publisher" name="phasespace_offset" args="-0.05 0 -0.2 0 0 0 /robot_tracker /base 100"/>
+</launch>

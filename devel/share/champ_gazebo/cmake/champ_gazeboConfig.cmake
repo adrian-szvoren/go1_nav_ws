@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/champ_gazebo/share/champ_gazebo/cmake/champ_gazeboConfig.cmake

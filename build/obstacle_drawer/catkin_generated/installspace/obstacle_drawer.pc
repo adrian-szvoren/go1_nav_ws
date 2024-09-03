@@ -1,0 +1,8 @@
+prefix=/home/adrian/go1_nav_ws/install
+
+Name: obstacle_drawer
+Description: Description of obstacle_drawer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

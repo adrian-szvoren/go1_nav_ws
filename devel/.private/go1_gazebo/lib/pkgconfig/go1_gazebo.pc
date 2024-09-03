@@ -1,0 +1,8 @@
+prefix=/home/adrian/go1_nav_ws/devel/.private/go1_gazebo
+
+Name: go1_gazebo
+Description: Description of go1_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

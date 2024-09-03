@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/champ_teleop/share/champ_teleop/cmake/champ_teleopConfig.cmake

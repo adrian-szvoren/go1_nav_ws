@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target static_planner[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/static_planner.dir/src/static_planner.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/adrian/go1_nav_ws/devel/.private/static_planner/lib/libstatic_planner.so[0m
+[100%] Built target static_planner

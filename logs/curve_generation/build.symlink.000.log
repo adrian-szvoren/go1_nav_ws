@@ -1,0 +1,4 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/libcurve_generation.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/curve_generation.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/curve_generation/cmake/curve_generationConfig.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/curve_generation/cmake/curve_generationConfig-version.cmake

@@ -1,0 +1,20 @@
+In file included from [01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/src/psnode.cpp:13[m[K:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:[m[K In function ‘[01m[Kint seek_next(std::string*, int, char)[m[K’:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:514:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  514 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+In file included from [01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/src/psnode.cpp:13[m[K:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:[m[K In function ‘[01m[Kint seek_next(std::string*, int, char)[m[K’:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:514:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  514 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+In file included from [01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/src/psnode.cpp:13[m[K:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:[m[K In function ‘[01m[Kstd::string to_string(RSJresourceType)[m[K’:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:65:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+   65 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+In file included from [01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/src/psnode.cpp:13[m[K:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:[m[K In function ‘[01m[Kstd::string to_string(RSJresourceType)[m[K’:
+[01m[K/home/adrian/go1_nav_ws/src/phasespace_ros_node/include/RSJparser.tcc:65:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+   65 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K

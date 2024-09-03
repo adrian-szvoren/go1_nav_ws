@@ -1,0 +1,118 @@
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target unitree_legged_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target unitree_legged_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target unitree_legged_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target unitree_legged_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target unitree_legged_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target control_via_keyboard[0m
+[35m[1mScanning dependencies of target example_position[0m
+[35m[1mScanning dependencies of target twist_sub[0m
+[35m[1mScanning dependencies of target example_walk[0m
+[35m[1mScanning dependencies of target robot_state[0m
+[35m[1mScanning dependencies of target state_sub[0m
+[  7%] [32mBuilding CXX object CMakeFiles/twist_sub.dir/src/exe/twist_sub.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/example_position.dir/src/exe/example_position.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/example_walk.dir/src/exe/example_walk.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/state_sub.dir/src/exe/state_sub.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/control_via_keyboard.dir/src/exe/control_via_keyboard.cpp.o[0m
+[35m[1mScanning dependencies of target ros_udp[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/robot_state.dir/src/exe/robot_state.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/ros_udp.dir/src/exe/ros_udp.cpp.o[0m
+[ 57%] [32m[1mLinking CXX executable /home/adrian/go1_nav_ws/devel/.private/unitree_legged_real/lib/unitree_legged_real/control_via_keyboard[0m
+[ 57%] Built target control_via_keyboard
+[ 64%] [32m[1mLinking CXX executable /home/adrian/go1_nav_ws/devel/.private/unitree_legged_real/lib/unitree_legged_real/example_walk[0m
+[ 71%] [32m[1mLinking CXX executable /home/adrian/go1_nav_ws/devel/.private/unitree_legged_real/lib/unitree_legged_real/example_position[0m
+[ 71%] Built target example_walk
+[ 71%] Built target example_position
+[ 78%] [32m[1mLinking CXX executable /home/adrian/go1_nav_ws/devel/.private/unitree_legged_real/lib/unitree_legged_real/state_sub[0m
+[ 85%] [32m[1mLinking CXX executable /home/adrian/go1_nav_ws/devel/.private/unitree_legged_real/lib/unitree_legged_real/twist_sub[0m
+[ 85%] Built target state_sub
+[ 85%] Built target twist_sub
+[ 92%] [32m[1mLinking CXX executable /home/adrian/go1_nav_ws/devel/.private/unitree_legged_real/lib/unitree_legged_real/ros_udp[0m
+[ 92%] Built target ros_udp
+[100%] [32m[1mLinking CXX executable /home/adrian/go1_nav_ws/devel/.private/unitree_legged_real/lib/unitree_legged_real/robot_state[0m
+[100%] Built target robot_state

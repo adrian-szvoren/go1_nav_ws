@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/trajectory_optimization/lib/pkgconfig/trajectory_optimization.pc

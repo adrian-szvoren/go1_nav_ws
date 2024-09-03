@@ -1,0 +1,4 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/libgraph_planner.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/graph_planner.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/graph_planner/cmake/graph_plannerConfig.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/graph_planner/cmake/graph_plannerConfig-version.cmake

@@ -1,0 +1,10 @@
+[35m[1mScanning dependencies of target curve_generation[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/curve_generation.dir/src/curve.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/curve_generation.dir/src/bspline_curve.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/curve_generation.dir/src/bezier_curve.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/curve_generation.dir/src/cubic_spline_curve.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/curve_generation.dir/src/dubins_curve.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/curve_generation.dir/src/polynomial_curve.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/curve_generation.dir/src/reeds_shepp_curve.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/adrian/go1_nav_ws/devel/.private/curve_generation/lib/libcurve_generation.so[0m
+[100%] Built target curve_generation

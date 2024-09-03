@@ -1,0 +1,8 @@
+prefix=/home/adrian/go1_nav_ws/devel/.private/lazy_planner
+
+Name: lazy_planner
+Description: Description of lazy_planner
+Version: 0.0.0
+Cflags: -I/home/adrian/go1_nav_ws/src/core/global_planner/lazy_planner/include
+Libs: -L${prefix}/lib -llazy_planner
+Requires: 

@@ -1,0 +1,7 @@
+[35m[1mScanning dependencies of target evolutionary_planner[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/evolutionary_planner.dir/src/evolutionary_planner.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/evolutionary_planner.dir/src/aco.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/evolutionary_planner.dir/src/pso.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/evolutionary_planner.dir/src/ga.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/adrian/go1_nav_ws/devel/.private/evolutionary_planner/lib/libevolutionary_planner.so[0m
+[100%] Built target evolutionary_planner

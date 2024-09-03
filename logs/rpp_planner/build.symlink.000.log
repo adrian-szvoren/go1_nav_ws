@@ -1,0 +1,4 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/librpp_planner.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/rpp_planner.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/rpp_planner/cmake/rpp_plannerConfig.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/rpp_planner/cmake/rpp_plannerConfig-version.cmake

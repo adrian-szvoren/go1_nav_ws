@@ -1,0 +1,14 @@
+[35m[1mScanning dependencies of target graph_planner[0m
+[  8%] [32mBuilding CXX object CMakeFiles/graph_planner.dir/src/a_star.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/graph_planner.dir/src/graph_planner.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/graph_planner.dir/src/jump_point_search.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/graph_planner.dir/src/d_star.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/graph_planner.dir/src/lpa_star.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/graph_planner.dir/src/d_star_lite.cpp.o[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/graph_planner.dir/src/voronoi.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/graph_planner.dir/src/theta_star.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/graph_planner.dir/src/lazy_theta_star.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/graph_planner.dir/src/s_theta_star.cpp.o[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/graph_planner.dir/src/hybrid_a_star.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/adrian/go1_nav_ws/devel/.private/graph_planner/lib/libgraph_planner.so[0m
+[100%] Built target graph_planner

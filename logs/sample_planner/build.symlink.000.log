@@ -1,0 +1,4 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/libsample_planner.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/sample_planner.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/sample_planner/cmake/sample_plannerConfig-version.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/sample_planner/cmake/sample_plannerConfig.cmake

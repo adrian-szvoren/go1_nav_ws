@@ -1,0 +1,9 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/libquadruped_controller.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/libmessage_relay.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/libstate_estimation.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/champ_base/state_estimation_node
+Symlinking /home/adrian/go1_nav_ws/devel/lib/champ_base/message_relay_node
+Symlinking /home/adrian/go1_nav_ws/devel/lib/champ_base/quadruped_controller_node
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/champ_base.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/champ_base/cmake/champ_baseConfig-version.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/champ_base/cmake/champ_baseConfig.cmake

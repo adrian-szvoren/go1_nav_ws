@@ -1,0 +1,10 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/unitree_legged_real/example_position
+Symlinking /home/adrian/go1_nav_ws/devel/lib/unitree_legged_real/twist_sub
+Symlinking /home/adrian/go1_nav_ws/devel/lib/unitree_legged_real/state_sub
+Symlinking /home/adrian/go1_nav_ws/devel/lib/unitree_legged_real/robot_state
+Symlinking /home/adrian/go1_nav_ws/devel/lib/unitree_legged_real/ros_udp
+Symlinking /home/adrian/go1_nav_ws/devel/lib/unitree_legged_real/control_via_keyboard
+Symlinking /home/adrian/go1_nav_ws/devel/lib/unitree_legged_real/example_walk
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/unitree_legged_real.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/unitree_legged_real/cmake/unitree_legged_realConfig-version.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/unitree_legged_real/cmake/unitree_legged_realConfig.cmake

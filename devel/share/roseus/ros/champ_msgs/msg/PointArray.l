@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/champ_msgs/share/roseus/ros/champ_msgs/msg/PointArray.l

@@ -1,0 +1,4 @@
+Symlinking /home/adrian/go1_nav_ws/devel/lib/libstatic_planner.so
+Symlinking /home/adrian/go1_nav_ws/devel/lib/pkgconfig/static_planner.pc
+Symlinking /home/adrian/go1_nav_ws/devel/share/static_planner/cmake/static_plannerConfig-version.cmake
+Symlinking /home/adrian/go1_nav_ws/devel/share/static_planner/cmake/static_plannerConfig.cmake

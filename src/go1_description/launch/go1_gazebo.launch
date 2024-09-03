@@ -1,0 +1,29 @@
+<launch>
+
+    <arg name="user_debug" default="false"/>
+    <arg name="with_3D_lidar" default="true"/>
+    <arg name="with_2D_lidar" default="false"/>
+
+
+    <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find go1_description)/xacro/robot.xacro'
+            DEBUG:=$(arg user_debug)
+            with_3D_lidar:=$(arg with_3D_lidar)
+            with_2D_lidar:=$(arg with_2D_lidar)
+            Gazebo:=True"/>
+
+    <!-- We resume the logic in empty_world.launch, changing only the name of the world to be launched -->
+    <include file="$(find gazebo_ros)/launch/empty_world.launch"/>
+
+    <!-- push robot_description to factory and spawn robot in gazebo -->
+    <node name="spawn_urdf" pkg="gazebo_ros" type="spawn_model" clear_params="true"
+          args="-z 0.5 -param robot_description -urdf -model go1_description" output="screen"/>
+
+
+    <node pkg="robot_state_publisher" type="robot_state_publisher" name="robot_state_publisher">
+        <param name="publish_frequency" type="double" value="30.0"/>
+    </node>
+
+    <!-- <node pkg="rviz" type="rviz" name="rviz" respawn="false" output="screen"
+        args="-d $(find go1_description)/launch/check_joint.rviz"/>
+ -->
+</launch>

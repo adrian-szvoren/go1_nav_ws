@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/phasespace/share/gennodejs/ros/phasespace/msg/Rigid.js

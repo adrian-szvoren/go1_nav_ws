@@ -1,0 +1,12 @@
+[ 10%] Built target kartoSlamToolbox
+[ 17%] Built target ceres_solver_plugin
+[ 37%] Built target toolbox_common
+[ 72%] Built target sync_slam_toolbox
+[ 72%] Built target localization_slam_toolbox
+[ 72%] Built target async_slam_toolbox
+[ 72%] Built target merge_maps_kinematic
+[ 72%] Built target lifelong_slam_toolbox
+[ 79%] Built target lifelong_slam_toolbox_node
+[ 86%] Built target sync_slam_toolbox_node
+[ 93%] Built target async_slam_toolbox_node
+[100%] Built target localization_slam_toolbox_node

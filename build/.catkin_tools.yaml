@@ -1,0 +1,6 @@
+devel_space: /home/adrian/go1_nav_ws/devel
+install: false
+install_space: /home/adrian/go1_nav_ws/install
+profile: default
+source_space: /home/adrian/go1_nav_ws/src
+workspace: /home/adrian/go1_nav_ws

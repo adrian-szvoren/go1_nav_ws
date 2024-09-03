@@ -1,0 +1,1 @@
+/home/adrian/go1_nav_ws/devel/.private/go1_phasespace_navigation/lib/pkgconfig/go1_phasespace_navigation.pc
